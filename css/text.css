@@ -1,0 +1,19 @@
+.container {
+    width: 900px;
+    margin: 0 auto;
+}
+.form-control {
+    padding: 12px;
+
+}
+.form-control option {
+    padding: 12px;
+}
+.form-group .list {
+    padding: 20px;
+}
+.form-group {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
